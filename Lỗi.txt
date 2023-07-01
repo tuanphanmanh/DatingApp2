@@ -1,0 +1,1 @@
+KO hiển thị id và username trong post man 5001
