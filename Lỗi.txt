@@ -9,3 +9,5 @@ chuong 5; phan 2 phut t2
 lỗi ko nhét được edit profile với logout vào trong welcome user ( lỗi drop down) chương 5
 
 Lỗi who is favourite user 8.00p 13/16 chương 5
+
+chuong 7 bai 5 6.38p

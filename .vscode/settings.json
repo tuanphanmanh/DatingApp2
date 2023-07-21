@@ -5,7 +5,11 @@
         "datepicker",
         "datingapp",
         "devkit",
+        "Enviroment",
+        "titlecase",
         "toastr",
+        "toatr",
+        "Unauthorised",
         "weatherforecast"
     ]
 }
