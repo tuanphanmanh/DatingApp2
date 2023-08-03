@@ -1,0 +1,13 @@
+KO hiển thị id và username trong post man 5001
+
+lỗi users trong console trong client (6/12 chương 3)
+
+phần 5 chương 4 phút t10
+
+chuong 5; phan 2 phut t2
+
+lỗi ko nhét được edit profile với logout vào trong welcome user ( lỗi drop down) chương 5
+
+Lỗi who is favourite user 8.00p 13/16 chương 5
+
+chuong 7 bai 5 6.38p
